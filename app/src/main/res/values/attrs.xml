@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTitleView">
+        <attr name="title_left_Text" format="string"></attr>
+        <attr name="title_left_TextColor" format="color"></attr>
+        <attr name="title_left_TextSize" format="dimension"></attr>
+        <attr name="title_left_bg_Color" format="reference"></attr>
+
+        <attr name="title_center_Text" format="string"></attr>
+        <attr name="title_center_TextColor" format="color"></attr>
+        <attr name="title_center_TextSize" format="dimension"></attr>
+        <attr name="title_center_bg_Color" format="reference"></attr>
+
+        <attr name="title_right_Text" format="string"></attr>
+        <attr name="title_right_TextColor" format="color"></attr>
+        <attr name="title_right_TextSize" format="dimension"></attr>
+        <attr name="title_right_bg_Color" format="reference"></attr>
+
+    </declare-styleable>
+</resources>
