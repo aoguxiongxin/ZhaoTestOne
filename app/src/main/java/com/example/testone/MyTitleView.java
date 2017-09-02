@@ -122,3 +122,4 @@ public class MyTitleView extends LinearLayout {
     }
 
 }
+
